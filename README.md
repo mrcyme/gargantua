@@ -1,2 +1,2 @@
 # gargantua
-data hungry oger
+This repo contains a collection of data crawler for different modalities
